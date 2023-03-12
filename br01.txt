@@ -12,3 +12,4 @@ line added from pc3
 another line added
 another one
 Oh HOhoHOHOHOHOHOHO //conflict resolved
+another conflict

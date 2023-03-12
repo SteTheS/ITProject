@@ -2,3 +2,7 @@ add new file
 
 conflict content on main
 resolved conflict
+
+
+
+more line
